@@ -35,7 +35,6 @@
   </span>
 </div><br/>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={thepablosantos}
 
 Estou animado em explorar mais sobre como a IA e a blockchain podem ser utilizadas para criar soluções criativas e eficientes e sigo nesse caminho em constante aprendizado.
 
