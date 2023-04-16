@@ -4,7 +4,28 @@
 [![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-santos-46794a269/)
 
-![Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=thepablosantos&show_icons=true&theme=radical)
+# Meu Contrato Solidity
+
+```solidity
+pragma solidity ^0.8.18;
+
+import "hardhat/console.sol";
+
+contract GitHubProfile {
+    string public welcomeMessage;
+
+    constructor() {
+        console.log("Deploying GitHubProfile");
+        welcomeMessage = "Olá! Seja bem-vindo(a) ao meu perfil do GitHub!";
+    }
+
+    function greet() public view returns (string memory) {
+        console.log("Apresentando a mensagem de boas-vindas: %s", welcomeMessage);
+        return welcomeMessage;
+    }
+}
+```
+
 
 ### Tecnologias com que trabalho
 
