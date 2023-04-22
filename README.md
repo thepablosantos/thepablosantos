@@ -2,7 +2,10 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-santos-46794a269/)
 
-### Meu perfil GitHub
+Sou desenvolvedor com experiência em diversas tecnologias e habilidades em Blockchain, tendo aprimorado meu conhecimento por meio de um curso de Engenheiro Blockchain. Sou apaixonado por aprender novas habilidades e continuo a explorar o potencial da inteligência artificial e blockchain na criação de soluções inovadoras e eficientes.
+
+
+### Bem-vindo ao meu GitHub
 
 ```solidity
 pragma solidity ^0.8.18;
@@ -22,6 +25,7 @@ contract GitHubProfile {
         return welcomeMessage;
     }
 }
+
 ```
 
 
