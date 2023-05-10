@@ -65,8 +65,10 @@ contract GitHubProfile {
   <span style="display: inline-block">
     <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" /> 
   </span>
-</div><br/>
-                                                                                                                
+    <span style="display: inline-block">
+    <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff" /> 
+  </span>
+</div><br/>                                                                                                                
 
 Estou animado em explorar mais sobre como a IA e a blockchain podem ser utilizadas para criar soluções criativas e eficientes e sigo nesse caminho em constante aprendizado.
 
