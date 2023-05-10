@@ -56,8 +56,23 @@ contract GitHubProfile {
   <span style="display: inline-block">
     <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
   </span>
+    <span style="display: inline-block">
+    <img src=https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  </span>
+    <span style="display: inline-block">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  </span>                                                                                               
+    <span style="display: inline-block">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </span>                                                                                             
+    <span style="display: inline-block">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </span>
+      <span style="display: inline-block">
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> 
+  </span>
 </div><br/>
-
+                                                                                                                
 
 Estou animado em explorar mais sobre como a IA e a blockchain podem ser utilizadas para criar soluções criativas e eficientes e sigo nesse caminho em constante aprendizado.
 
