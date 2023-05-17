@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-santos-46794a269/)
 
-Sou desenvolvedor com experiência em diversas tecnologias e habilidades em Blockchain, tendo aprimorado meu conhecimento por meio de um curso de Engenheiro Blockchain. Sou apaixonado por aprender novas habilidades e continuo a explorar o potencial da inteligência artificial e blockchain na criação de soluções inovadoras e eficientes.
+Sou um Engenheiro Blockchain certificado porém com muito interesse e estudos na área de dados, tenho experiência em trabalhar com ferramentas como PowerBI, SQL, Python, PostgreSQL, Pentaho, entre outras. A minha certificação pela Ancord correlaciona com a minha paixão e conhecimento nesta área. 
 
 
 ### Bem-vindo ao meu GitHub
