@@ -1,11 +1,12 @@
-### Olá eu sou o Pablo Santos ✌️
+### Hi, I'm Pablo Santos ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-santos-46794a269/)
 
-Olá. Sou um Engenheiro Blockchain certificado, tenho experiência em trabalhar com ferramentas como PowerBI, SQL, Python, PostgreSQL, Pentaho, entre outras. A minha certificação pela Ancord correlaciona com a minha paixão e conhecimento nesta área. 
+👋 Hi, I'm Pablo, a 30-year-old Data Analyst and certified Blockchain Engineer based in Dublin, Ireland. I'm passionate about leveraging technology to transform industries. With a background in financial analysis, I've been exploring the realm of data for over a year, mastering tools like PowerBI, SQL, Python, and more. Constantly learning, I believe in the power of data to drive impactful solutions. 🚀
 
 
-### Bem-vindo ao meu GitHub
+
+### Welcome to my GitHub
 
 ```solidity
 pragma solidity ^0.8.18;
@@ -70,6 +71,6 @@ contract GitHubProfile {
   </span>
 </div><br/>                                                                                                                
 
-Estou animado em explorar mais sobre como a IA e a blockchain podem ser utilizadas para criar soluções criativas e eficientes e sigo nesse caminho em constante aprendizado.
+I'm excited to delve further into how Data, AI, and blockchain can be used to create creative and efficient solutions, and I continue on this path of continuous learning.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepablosantos&layout=compact)
