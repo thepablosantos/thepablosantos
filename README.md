@@ -19,11 +19,11 @@ contract GitHubProfile {
 
     constructor() {
         console.log("Deploying GitHubProfile");
-        welcomeMessage = "Olá! Seja bem-vindo(a) ao meu perfil do GitHub!";
+        welcomeMessage = "Hello! Welcome to my GitHub profile!";
     }
 
     function greet() public view returns (string memory) {
-        console.log("Apresentando a mensagem de boas-vindas: %s", welcomeMessage);
+        console.log("Introducing the welcome message: %s", welcomeMessage);
         return welcomeMessage;
     }
 }
@@ -31,7 +31,7 @@ contract GitHubProfile {
 ```
 
 
-### Tecnologias com que trabalho
+### Technologies I work with
 
 <div>
   <span style="display: inline-block">
