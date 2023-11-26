@@ -1,6 +1,7 @@
 ### Hi, I'm Pablo Santos ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-santos-46794a269/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/thepablosantos/Home-882a9ba67cfc44fba0bef04244c609fb?pvs=4)
 
 👋 Hi, I'm Pablo, a 30-year-old Data Analyst and certified Blockchain Engineer based in Dublin, Ireland. I'm passionate about leveraging technology to transform industries. With a background in financial analysis, I've been exploring the realm of data for over a year, mastering tools like PowerBI, SQL, Python, and more. Constantly learning, I believe in the power of data to drive impactful solutions. 🚀
 
