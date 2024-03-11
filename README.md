@@ -76,6 +76,6 @@ contract GitHubProfile {
   </span>
 </div><br/>                                                                                                                
 
-I'm excited to delve further into how Data, AI, and blockchain can be used to create creative and efficient solutions, and I continue on this path of continuous learning!
+I'm excited to delve further into how Data, AI, and blockchain can be used to create creative and efficient solutions, and I continue on this path of continuous learning!!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepablosantos&layout=compact)
