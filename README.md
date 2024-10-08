@@ -42,9 +42,6 @@ contract GitHubProfile {
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </span>
   <span style="display: inline-block">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  </span>
-  <span style="display: inline-block">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </span>
   <span style="display: inline-block">
@@ -55,25 +52,6 @@ contract GitHubProfile {
   </span>
   <span style="display: inline-block">
     <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
-  </span>
-    <span style="display: inline-block">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  </span>
-    <span style="display: inline-block">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  </span>                                                                                               
-    <span style="display: inline-block">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </span>                                                                                             
-      <span style="display: inline-block">
-    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> 
-  </span>                                                                                         
-  <span style="display: inline-block">
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" /> 
-  </span>
-    <span style="display: inline-block">
-    <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff" /> 
-  </span>
 </div><br/>                                                                                                                
 
 I'm excited to delve further into how Data, AI, and blockchain can be used to create creative and efficient solutions, and I continue on this path of continuous learning!!
