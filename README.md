@@ -38,20 +38,18 @@ contract GitHubProfile {
 ### Technologies I work with
 
 <div>
+    <span style="display: inline-block">
+    <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
   <span style="display: inline-block">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </span>
-  <span style="display: inline-block">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </span>
-  <span style="display: inline-block">
-    <img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" />
   </span>
   <span style="display: inline-block">
     <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
   </span>
   <span style="display: inline-block">
-    <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </span>
+
 </div><br/>                                                                                                                
 
 I'm excited to delve further into how Data, AI, and blockchain can be used to create creative and efficient solutions, and I continue on this path of continuous learning!!
