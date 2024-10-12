@@ -5,7 +5,7 @@
 
 👋 Hello and welcome to my profile!
 
-My name is Pablo, I am 30 years old, and currently, I reside in Dublin, Ireland. Throughout my career, I have always been immersed in the world of technology. Just over a year ago, I decided to steer my trajectory towards the field of blockchain, an area that has completely captured my interest. 
+My name is Pablo, I am 31 years old, and currently, I reside in Dublin, Ireland. Throughout my career, I have always been immersed in the world of technology. Just over a year ago, I decided to steer my trajectory towards the field of blockchain, an area that has completely captured my interest. 
 
 Additionally, I am a certified Blockchain Engineer with a strong interest in the intersection between blockchain and artificial intelligence. I firmly believe in the transformative potential of these technologies, capable of revolutionizing industries and redefining how companies operate. 🚀
 
