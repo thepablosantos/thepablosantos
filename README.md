@@ -5,9 +5,9 @@
 
 👋 Hello and welcome to my profile!
 
-My name is Pablo, I am 31 years old, and currently, I reside in Dublin, Ireland. Throughout my career, I have always been immersed in the world of technology. Just over a year ago, I decided to steer my trajectory towards the field of blockchain, an area that has completely captured my interest. 
+My name is Pablo, I’m 31 years old, and I currently live in Dublin, Ireland. I have always been deeply connected to the world of technology, and the blockchain universe has truly captured my heart. Today, my journey is focused on Solidity and Web3 security, areas that have become my true passion.
 
-Additionally, I am a certified Blockchain Engineer with a strong interest in the intersection between blockchain and artificial intelligence. I firmly believe in the transformative potential of these technologies, capable of revolutionizing industries and redefining how companies operate. 🚀
+I am a certified Blockchain Engineer with growing experience in developing smart contracts and security protocols for decentralized applications. My goal is to contribute to the evolution of secure blockchain systems, combining my knowledge of Solidity and security practices to create solutions that ensure the integrity and protection of decentralized ecosystems. 🚀
 
 
 
