@@ -41,7 +41,10 @@ contract GitHubProfile {
   <span style="display: inline-block">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </span>
-  <span style="display: inline-block">
+<span style="display: inline-block">
+<img src="(https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+</span> 
+<span style="display: inline-block">
     <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
   </span>
   <span style="display: inline-block">
