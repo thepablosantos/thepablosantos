@@ -1,7 +1,6 @@
 ### Hi, I'm Pablo Santos ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-santos-46794a269/)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/thepablosantos/Home-882a9ba67cfc44fba0bef04244c609fb?pvs=4)
 
 👋 Hello and welcome to my profile!
 
