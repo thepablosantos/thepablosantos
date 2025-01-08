@@ -1,5 +1,6 @@
 ### Hi, I'm Pablo Santos ✌️
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pablosantos-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pablo-santos-46794a269/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-santos-46794a269/)
 
 👋 Hello and welcome to my profile!
