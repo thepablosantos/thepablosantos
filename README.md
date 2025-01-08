@@ -1,8 +1,5 @@
 ### Hi, I'm Pablo Santos ✌️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pablosantos-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pablo-santos-46794a269/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-santos-46794a269/)
-
 👋 Hello and welcome to my profile!
 
 My name is Pablo, and I currently live in Dublin, Ireland. I have always been deeply connected to the world of technology, and the blockchain universe has truly captured my heart. Today, my journey is focused on Solidity and Web3 security, areas that have become my true passion.
@@ -34,23 +31,19 @@ contract GitHubProfile {
 
 ```
 
+[![Linkedin Badge](https://img.shields.io/badge/-Pablo%20Santos-007acc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-santos-46794a269/)](https://www.linkedin.com/in/pablo-santos-46794a269/)
+[![Gmail Badge](https://img.shields.io/badge/-alvin.scheibe@gmail.com-007acc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvin.scheibe@gmail.com)](mailto:alvin.scheibe@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-alvinscheibe-007acc?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/483766426625114132)](https://discordapp.com/users/483766426625114132)
 
-<div>
-    <span style="display: inline-block">
-        <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
-    </span>
-    <span style="display: inline-block">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </span>
-    <span style="display: inline-block">
-        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-    </span>
-    <span style="display: inline-block">
-        <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
-    </span>
-    <span style="display: inline-block">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    </span>
-</div><br/>                                                                                                               
+[//]: # (<a href="https://github.com/alvinscheibe">)
+[//]: # (    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvinscheibe&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs,issues" />)
+[//]: # (</a>)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepablosantos&layout=compact)
+<div style="display: inline_block"><br />
+    <img alt="Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
+    <img alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
