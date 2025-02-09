@@ -3,7 +3,7 @@ Hi, I'm Pablo Santos ✌️
 ```solidity
 pragma solidity ^0.8.18;
 
-import "hardhat/console.sol"; s
+import "hardhat/console.sol";
 
 contract GitHubProfile {
     string public welcomeMessage;
