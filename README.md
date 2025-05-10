@@ -1,20 +1,22 @@
 Hi, I'm Pablo Santos ✌️
 
 ```solidity
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
-
-import "hardhat/console.sol";
 
 contract GitHubProfile {
     string public welcomeMessage;
 
+    event Deployed(address indexed by);
+    event Greeted(string message);
+
     constructor() {
-        console.log("Deploying GitHubProfile");
         welcomeMessage = "Hello! Welcome to my GitHub profile!";
+        emit Deployed(msg.sender);
     }
 
     function greet() public view returns (string memory) {
-        console.log("Introducing the welcome message: %s", welcomeMessage);
+        emit Greeted(welcomeMessage);
         return welcomeMessage;
     }
 }
