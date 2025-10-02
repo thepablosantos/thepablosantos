@@ -15,7 +15,7 @@ contract GitHubProfile {
         emit Deployed(msg.sender);
     }
 
-    function greet() public view returns (string memory) {
+    function greet() public returns (string memory) {
         emit Greeted(welcomeMessage);
         return welcomeMessage;
     }
