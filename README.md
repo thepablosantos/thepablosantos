@@ -24,7 +24,7 @@ contract GitHubProfile {
 ```
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-007acc?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/pablo-santos-46794a269/)](https://www.linkedin.com/in/pablo-santos-46794a269/)
-[![ProtonMail Badge](https://img.shields.io/badge/-pablosantos.dev@proton.me-8B89CC?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:seuemail@protonmail.com)](mailto:seuemail@protonmail.com)
+
 
 [//]: # (<a href="https://github.com/alvinscheibe">)
 [//]: # (    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvinscheibe&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs,issues" />)
