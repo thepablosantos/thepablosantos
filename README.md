@@ -26,7 +26,7 @@ contract GitHubProfile {
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-007acc?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/pablo-sodre/)](https://www.linkedin.com/in/pablo-sodre/)
 
 
-[//]: # (<a href="https://github.com/alvinscheibe">)
+[//]: # (<a href="https://github.com/thepablosantos">)
 [//]: # (    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvinscheibe&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs,issues" />)
 [//]: # (</a>)
 
