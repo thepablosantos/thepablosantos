@@ -24,7 +24,7 @@ contract GitHubProfile {
 ```
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-007acc?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/pablo-sodre/)](https://www.linkedin.com/in/pablo-sodre/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-pablosantos.xyz-0A66C2?style=for-the-badge&logo=vercel)](https://www.pablosantos.xyz)
+[![Portfolio Badge](https://img.shields.io/badge/-pablosantos.xyz-0A66C2?style=flat-square&logo=vercel&logoColor=white&link=https://www.pablosantos.xyz)](https://www.pablosantos.xyz)
 
 
 [//]: # (<a href="https://github.com/thepablosantos">)
