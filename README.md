@@ -1,42 +1,98 @@
-Hi, I'm Pablo Santos ✌️
+# Hi, I'm Pablo Santos 👋
 
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.18;
+> **Penetration Tester | Red Team | Web3 Security Researcher**
 
-contract GitHubProfile {
-    string public welcomeMessage;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-sodre/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.pablosantos.xyz/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-2EFF00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JohnTitor)
 
-    event Deployed(address indexed by);
-    event Greeted(string message);
+## 🎯 Focus Areas
 
-    constructor() {
-        welcomeMessage = "Hello! Welcome to my GitHub profile!";
-        emit Deployed(msg.sender);
-    }
+### 🔴 Red Team & Penetration Testing
+- Web Application Security
+- Network Penetration Testing
+- Vulnerability Assessment
+- Exploit Development
+- Active Directory Security
 
-    function greet() public returns (string memory) {
-        emit Greeted(welcomeMessage);
-        return welcomeMessage;
-    }
-}
+### 🔷 Web3 Security 
+- Smart Contract Auditing
+- Blockchain Security Research
+- DeFi Security Analysis
+- Web3 Application Testing
 
-```
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-007acc?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/pablo-sodre/)](https://www.linkedin.com/in/pablo-sodre/)
-[![Portfolio Badge](https://img.shields.io/badge/-pablosantos.xyz-0A66C2?style=flat-square&logo=vercel&logoColor=white&link=https://www.pablosantos.xyz)](https://www.pablosantos.xyz)
+## 🛠️ Tech Stack
 
+### Pentesting & Security
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-FF6B6B?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-FF6B6B?style=flat-square&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-[//]: # (<a href="https://github.com/thepablosantos">)
-[//]: # (    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvinscheibe&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs,issues" />)
-[//]: # (</a>)
+### Web3 & Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=foundry&logoColor=white)
 
-<div style="display: inline_block"><br />
-    <img alt="Solidity" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg">
-    <img alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+### Development
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📊 Current Activities
+
+### 🔴 Red Team / Penetration Testing
+- 🔥 **13 day streak** on TryHackMe
+- ✅ **54 rooms completed** - Focus on web app & network security
+- 📚 Learning paths: Penetration Tester (77%), Web Fundamentals (76%)
+- 🏆 Certified: Pre-Security (100%)
+
+### 🔷 Web3 Security
+- 🔍 Smart contract security research
+- 🛡️ Web3 application security testing
+- 📝 Blockchain security best practices
+
+---
+
+## 📚 Featured Repositories
+
+### 🔴 Pentesting & Security
+- [**Cybersecurity-Tryhackme-Journey**](https://github.com/thepablosantos/Cybersecurity-Tryhackme-Journey) - My TryHackMe learning journey and progress tracking
+
+### 🔷 Web3 & Blockchain
+- [**portfolio-web3**](https://github.com/thepablosantos/portfolio-web3) - Web3 projects and experiences
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thepablosantos&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepablosantos&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
+
 </div>
+
+---
+
+## 🔗 Connect With Me
+
+- 🌐 **Website:** [pablosantos.xyz](https://www.pablosantos.xyz/)
+- 💼 **LinkedIn:** [pablo-sodre](https://www.linkedin.com/in/pablo-sodre/)
+- 🎯 **TryHackMe:** [JohnTitor](https://tryhackme.com/p/JohnTitor)
+
+---
+
+<div align="center">
+
+</div>
+
