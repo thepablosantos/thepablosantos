@@ -6,21 +6,6 @@
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.pablosantos.xyz/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-2EFF00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JohnTitor)
 
-## 🎯 Focus Areas
-
-### 🔴 Red Team & Penetration Testing
-- Web Application Security
-- Network Penetration Testing
-- Vulnerability Assessment
-- Exploit Development
-- Active Directory Security
-
-### 🔷 Web3 Security 
-- Smart Contract Auditing
-- Blockchain Security Research
-- DeFi Security Analysis
-- Web3 Application Testing
-
 ---
 
 ## 🛠️ Tech Stack
