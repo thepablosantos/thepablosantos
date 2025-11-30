@@ -1,4 +1,4 @@
-# Hi, I'm Pablo Santos 👋
+# Hi, I'm Pablo 
 
 > **Penetration Tester | Red Team | Web3 Security Researcher**
 
@@ -44,21 +44,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## 📊 Current Activities
-
-### 🔴 Red Team / Penetration Testing
-- 🔥 **13 day streak** on TryHackMe
-- ✅ **54 rooms completed** - Focus on web app & network security
-- 📚 Learning paths: Penetration Tester (77%), Web Fundamentals (76%)
-- 🏆 Certified: Pre-Security (100%)
-
-### 🔷 Web3 Security
-- 🔍 Smart contract security research
-- 🛡️ Web3 application security testing
-- 📝 Blockchain security best practices
 
 ---
 
