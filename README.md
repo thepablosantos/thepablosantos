@@ -22,7 +22,7 @@
 
 - 🌐 **Website:** [pablosantos.xyz](https://www.pablosantos.xyz/)
 - 💼 **LinkedIn:** [pablo-sodre](https://www.linkedin.com/in/pablo-sodre/)
-- 🎯 **TryHackMe:** [JohnTitor](https://tryhackme.com/p/JohnTitor)
+- 🎯 **TryHackMe:** [JohnTitor](https://tryhackme.com/p/J0hnTitor)
 
 ---
 
