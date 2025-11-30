@@ -57,18 +57,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thepablosantos&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepablosantos&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
-
-</div>
-
----
-
 ## 🔗 Connect With Me
 
 - 🌐 **Website:** [pablosantos.xyz](https://www.pablosantos.xyz/)
